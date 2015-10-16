@@ -53,7 +53,7 @@ int main(int argc, char *argv[])
         cv::imshow("Output Window", image);
 
 		//print image dimensions
-		std::cout << "image size is: " << image.cols << "x" << image.rows << std::endl; 
+		std::cout << "image size is: " << image.cols << "x" << image.rows << " pixels" << std::endl; 
 
 		//Waits 1 millisecond to check if a key has been pressed. If so, breaks the loop. Otherwise continues.
         if(cv::waitKey(1) >= 0) break;
