@@ -1,5 +1,5 @@
 # Webcam capture
-Capture the output of your webcam and play with using OpenCV.
+Capture the output of your webcam and play with it using OpenCV.
 
 ## How to build and run this application under Ubuntu
 Open a terminal and run the commands below:
